@@ -33,9 +33,9 @@ find -L .
 ./item_images.rar  
 ```
 ### Run code
-1.Running all code
+1.Running all code  
 ```./run_.sh```  
-2.Only part1: get embeddings and PCA
+2.Only part1: get embeddings and PCA  
 ```python inference.py```  
 ```python PCA.py```  
 3.Only part2: train DIN and predict  
