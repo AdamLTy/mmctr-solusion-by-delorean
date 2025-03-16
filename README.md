@@ -42,7 +42,7 @@ https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct
 ```python inference.py```  
 ```python PCA.py```  
 3.Only part2: train DIN and predict  
-'''python gen_item_info.py```  
+```python gen_item_info.py```  
 ```python run_param_tuner.py --config config/DIN_microlens_mmctr_tuner_config_01.yaml --gpu 0```  
 ```python prediction.py --config config/DIN_microlens_mmctr_tuner_config_01 --expid DIN_MicroLens_1M_x1_xxx --gpu 0```  
 
