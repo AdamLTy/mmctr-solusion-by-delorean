@@ -39,7 +39,7 @@ https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct
 1.Running all code  
 ```./run.sh```  
 run.sh will install libraries from requirements.txt
-notice!!!: transformers library will install from local(transformers-main.zip) because Qwen2.5-vl-7B depends on some new features
+notice!!!: transformers library will install from local(transformers-main.zip) because Qwen2.5-vl-7B depends on some new features  
 2.Only part1: get embeddings and PCA  
 ```python inference.py```  
 ```python PCA.py```  
