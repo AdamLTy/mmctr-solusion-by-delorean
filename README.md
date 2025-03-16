@@ -34,7 +34,7 @@ find -L .
 ```
 ### Run code
 1.Running all code  
-```./run_.sh```  
+```./run.sh```  
 2.Only part1: get embeddings and PCA  
 ```python inference.py```  
 ```python PCA.py```  
