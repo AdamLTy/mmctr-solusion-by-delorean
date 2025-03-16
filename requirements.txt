@@ -8,3 +8,6 @@ tqdm
 pyarrow
 polars<=1.0.0
 fuxictr==2.3.7
+torch
+qwen_vl_utils
+pyarrow
