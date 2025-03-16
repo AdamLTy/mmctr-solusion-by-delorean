@@ -9,7 +9,7 @@ dataset_config:
         train_data: ./data/MicroLens_1M_x1/train.parquet
         valid_data: ./data/MicroLens_1M_x1/valid.parquet
         test_data: ./data/MicroLens_1M_x1/test.parquet
-        item_info: ./data/MicroLens_1M_x1/item_info.parquet
+        item_info: ./data/MicroLens_1M_x1/item_info_new.parquet
         rebuild_dataset: False
         feature_cols:
             - {name: user_id, active: True, dtype: int, type: meta}
